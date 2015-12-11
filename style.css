@@ -1,0 +1,21 @@
+.noir {
+  background-color: black;
+  width: 50%;
+  height: 30px;
+  margin-bottom: 5px;
+}
+.bleu {
+  background-color: blue;
+  width: 50%;
+  height: 30px;
+  margin-bottom: 5px;
+}
+.vert {
+  background-color: green;
+  width: 50%;
+  height: 30px;
+  margin-bottom: 5px;
+}
+.red {
+  background-color: red;
+}
